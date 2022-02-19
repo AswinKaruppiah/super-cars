@@ -1,0 +1,250 @@
+* {
+  margin: 0;
+  background-color: rgb(0, 0, 0);
+  scroll-behavior: smooth;
+}
+/* .carsection {
+  height: 100vh;
+  overflow-y: scroll;
+}
+.add {
+  overflow-y: hidden;
+} */
+body {
+  overflow-x: hidden;
+}
+@font-face {
+  font-family: myfont;
+  src: url("../bulgatti/Bulgatti.ttf");
+}
+@font-face {
+  font-family: myfont2;
+  src: url("./La\ Macchina\ Regular.ttf");
+}
+@font-face {
+  font-family: myfont3;
+  src: url("./FerroRosso.ttf");
+}
+
+@font-face {
+  font-family: myfont4;
+  src: url("../911porscha/911porschav3bold.ttf");
+}
+@font-face {
+  font-family: myfont5;
+  src: url("./AudiType-Bold_03.ttf");
+}
+@font-face {
+  font-family: myfont6;
+  src: url("./True\ Lies.ttf");
+}
+div {
+  margin-left: 15px;
+  margin-right: 15px;
+  border-radius: 5px;
+  margin-bottom: 35px;
+}
+.btncon {
+  z-index: 30;
+  background-color: transparent;
+  position: absolute;
+  margin-left: 80px;
+}
+.btncon2 {
+  z-index: 30;
+  background-color: transparent;
+  position: absolute;
+  margin-left: 80px;
+  margin-top: 50px;
+}
+
+.btn {
+  background-color: transparent;
+  padding: 15px 20px;
+
+  font-size: 25px;
+  border-color: azure;
+  border-width: 5px;
+  border-radius: 30px;
+}
+a {
+  font-weight: 700;
+  font-family: "Roboto Condensed", sans-serif;
+  letter-spacing: 2px;
+  background-color: transparent;
+  text-decoration: none;
+  color: aliceblue;
+}
+a:hover {
+  transition: 700ms;
+  color: black;
+}
+.bugattitext1 {
+  background-color: transparent;
+}
+.bugatti1 {
+  z-index: 20;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 600px;
+  width: 100%;
+  background-color: transparent;
+  position: absolute;
+  right: 0px;
+}
+
+.bugatti {
+  letter-spacing: 10px;
+  font-size: 80px;
+  color: white;
+  font-family: myfont6;
+  height: 95vh;
+  background-image: url("./ferrari-omologata-supercars-black-background-2020-5k-6500x3988-2783.jpg");
+  background-position: center;
+  background-size: cover;
+  /* background-attachment: fixed; */
+  background-repeat: no-repeat;
+}
+.bugattinote {
+  letter-spacing: 2px;
+  font-size: 60px;
+  color: white;
+  font-family: myfont;
+  height: 600px;
+  background-image: url("./bugatti-chiron-pur-sport-3840x2160-2020-cars-supercar-4k-22921\ \(1\).jpeg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+
+  margin-top: 10px;
+}
+.bugattinote h1 {
+  background-color: transparent;
+}
+.bugattitextcon {
+  display: flex;
+  align-items: center;
+  justify-content: right;
+  height: 600px;
+  width: 100%;
+  background-color: transparent;
+  position: absolute;
+  right: 0;
+}
+.lam {
+  letter-spacing: 3px;
+  font-size: 60px;
+  color: white;
+  font-family: myfont2;
+  height: 600px;
+  background-image: url("./27981.jpg");
+  background-attachment: fixed;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+.lamtext {
+  background-color: transparent;
+}
+.lamtextcon {
+  display: flex;
+  align-items: center;
+  justify-content: right;
+  height: 600px;
+  width: 100%;
+  background-color: transparent;
+  position: absolute;
+  right: -400px;
+}
+.lamnote {
+  letter-spacing: 2px;
+  font-size: 60px;
+  color: white;
+  font-family: myfont3;
+  height: 600px;
+  background-image: url("./adrian-n-jWM41o-TMAw-unsplash.jpg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+.ferraritext {
+  background-color: transparent;
+}
+.ferraritextcon {
+  display: flex;
+  align-items: center;
+  justify-content: right;
+  height: 600px;
+  width: 100%;
+  background-color: transparent;
+  position: absolute;
+  right: -650px;
+}
+.car5 {
+  font-size: 55px;
+  color: white;
+  font-family: myfont5;
+  height: 600px;
+  background-image: url("./1990977.jpg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+.car5text {
+  background-color: transparent;
+}
+.car5textcon {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 600px;
+  width: 100%;
+  background-color: transparent;
+  position: absolute;
+  right: -1550px;
+}
+body::-webkit-scrollbar {
+  display: none;
+}
+.car4 {
+  font-size: 55px;
+  color: white;
+  font-family: myfont4;
+  height: 600px;
+  background-image: url("./porsche_911_gt3_with_1985_porsche_956_le_mans_winner_livery_2021.jpg");
+  background-position: center;
+  background-size: cover;
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+}
+.cartext {
+  background-color: transparent;
+}
+.cartextcon {
+  display: flex;
+  align-items: center;
+  justify-content: right;
+  height: 600px;
+  width: 100%;
+  background-color: transparent;
+  position: absolute;
+  right: -1250px;
+}
+/* .aswin {
+  height: 200px;
+  width: 100%;
+  bottom: 
+  position: absolute;
+  background: linear-gradient(to top, black, transparent);
+}
+.aswin1 {
+  height: 200px;
+  width: 100%;
+  bottom: -100px;
+  position: absolute;
+  background: linear-gradient(to top, black, transparent);
+} */
