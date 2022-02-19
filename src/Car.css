@@ -265,6 +265,7 @@ body::-webkit-scrollbar {
 @media (max-width: 1133px) {
   .btncon {
     margin-left: 20px;
+    margin-top: 20px;
   }
   .btncon2 {
     margin-left: 40px;
@@ -287,6 +288,7 @@ body::-webkit-scrollbar {
 
   .bugatti1 {
     display: flex;
+    text-align: center;
     align-items: center;
     justify-content: center;
     position: absolute;
