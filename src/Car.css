@@ -38,12 +38,7 @@ body {
   font-family: myfont6;
   src: url("./True\ Lies.ttf");
 }
-div {
-  margin-left: 15px;
-  margin-right: 15px;
-  border-radius: 5px;
-  margin-bottom: 35px;
-}
+
 .btncon {
   z-index: 30;
   background-color: transparent;
@@ -116,6 +111,10 @@ a:hover {
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
+  margin-left: 15px;
+  margin-right: 15px;
+  border-radius: 5px;
+  margin-bottom: 35px;
 
   margin-top: 10px;
 }
@@ -143,6 +142,10 @@ a:hover {
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
+  margin-left: 15px;
+  margin-right: 15px;
+  border-radius: 5px;
+  margin-bottom: 35px;
 }
 .lamtext {
   background-color: transparent;
@@ -168,6 +171,10 @@ a:hover {
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
+  margin-left: 15px;
+  margin-right: 15px;
+  border-radius: 5px;
+  margin-bottom: 35px;
 }
 .ferraritext {
   background-color: transparent;
@@ -192,6 +199,10 @@ a:hover {
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
+  margin-left: 15px;
+  margin-right: 15px;
+  border-radius: 5px;
+  margin-bottom: 35px;
 }
 .car5text {
   background-color: transparent;
@@ -219,6 +230,10 @@ body::-webkit-scrollbar {
   background-size: cover;
   background-attachment: fixed;
   background-repeat: no-repeat;
+  margin-left: 15px;
+  margin-right: 15px;
+  border-radius: 5px;
+  margin-bottom: 35px;
 }
 .cartext {
   background-color: transparent;
@@ -252,15 +267,15 @@ body::-webkit-scrollbar {
     margin-left: 20px;
   }
   .btncon2 {
-    margin-left: 20px;
-    margin-top: 10px;
+    margin-left: 40px;
+    margin-top: 20px;
   }
   .btn {
     background-color: transparent;
     padding: 5px 10px;
     font-size: 15px;
     border-color: azure;
-    border-width: 1px;
+    border-width: 2px;
     border-radius: 30px;
   }
   .bugatti {
@@ -275,18 +290,28 @@ body::-webkit-scrollbar {
     border-radius: 5px;
     margin-bottom: 5px;
   }
-
-  .bugattitextcon,
-  .lamtextcon,
-  .ferraritextcon,
-  .cartextcon,
-  .car5textcon,
   .bugatti1 {
     display: flex;
     align-items: center;
     justify-content: center;
     position: absolute;
     left: 0;
+  }
+  .bugattitextcon,
+  .lamtextcon,
+  .ferraritextcon,
+  .cartextcon,
+  .car5textcon {
+    display: flex;
+    align-items: center;
+    text-align: center;
+    justify-content: center;
+    position: absolute;
+    left: 0;
+    margin-left: 5px;
+    margin-right: 5px;
+    border-radius: 5px;
+    margin-bottom: 5px;
   }
   .lamnote {
     font-size: 20px;
