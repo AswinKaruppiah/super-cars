@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/super-cars/static/css/main.067408bb.css",
+    "main.css": "/super-cars/static/css/main.18e2df7e.css",
     "main.js": "/super-cars/static/js/main.e06d1f11.js",
     "static/media/porsche_911_gt3_with_1985_porsche_956_le_mans_winner_livery_2021.jpg": "/super-cars/static/media/porsche_911_gt3_with_1985_porsche_956_le_mans_winner_livery_2021.695a5d0fed0a24ae1baf.jpg",
     "static/media/adrian-n-jWM41o-TMAw-unsplash.jpg": "/super-cars/static/media/adrian-n-jWM41o-TMAw-unsplash.978b4762e492cb5dd3ba.jpg",
@@ -15,11 +15,11 @@
     "static/media/911porschav3bold.ttf": "/super-cars/static/media/911porschav3bold.729582a3b77965dd08f5.ttf",
     "static/media/Bulgatti.ttf": "/super-cars/static/media/Bulgatti.657d80f99c74fa806975.ttf",
     "index.html": "/super-cars/index.html",
-    "main.067408bb.css.map": "/super-cars/static/css/main.067408bb.css.map",
+    "main.18e2df7e.css.map": "/super-cars/static/css/main.18e2df7e.css.map",
     "main.e06d1f11.js.map": "/super-cars/static/js/main.e06d1f11.js.map"
   },
   "entrypoints": [
-    "static/css/main.067408bb.css",
+    "static/css/main.18e2df7e.css",
     "static/js/main.e06d1f11.js"
   ]
 }
