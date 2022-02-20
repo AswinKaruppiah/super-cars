@@ -30,7 +30,9 @@ function Car() {
     <>
       <div className="bugatti">
         <div className="bugatti1">
-          <h1 className="bugattitext1">Super Cars*</h1>
+          <h1 data-aos="fade-up" className="bugattitext1">
+            Super Cars*
+          </h1>
         </div>
       </div>
       <div className="bugattinote">
