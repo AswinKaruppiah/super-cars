@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/super-cars/static/css/main.52a98e88.css",
-    "main.js": "/super-cars/static/js/main.e06d1f11.js",
+    "main.js": "/super-cars/static/js/main.76f8b518.js",
     "static/media/porsche_911_gt3_with_1985_porsche_956_le_mans_winner_livery_2021.jpg": "/super-cars/static/media/porsche_911_gt3_with_1985_porsche_956_le_mans_winner_livery_2021.695a5d0fed0a24ae1baf.jpg",
     "static/media/adrian-n-jWM41o-TMAw-unsplash.jpg": "/super-cars/static/media/adrian-n-jWM41o-TMAw-unsplash.978b4762e492cb5dd3ba.jpg",
     "static/media/ferrari-omologata-supercars-black-background-2020-5k-6500x3988-2783.jpg": "/super-cars/static/media/ferrari-omologata-supercars-black-background-2020-5k-6500x3988-2783.edaa1cb79d38e428bf1c.jpg",
@@ -16,10 +16,10 @@
     "static/media/Bulgatti.ttf": "/super-cars/static/media/Bulgatti.657d80f99c74fa806975.ttf",
     "index.html": "/super-cars/index.html",
     "main.52a98e88.css.map": "/super-cars/static/css/main.52a98e88.css.map",
-    "main.e06d1f11.js.map": "/super-cars/static/js/main.e06d1f11.js.map"
+    "main.76f8b518.js.map": "/super-cars/static/js/main.76f8b518.js.map"
   },
   "entrypoints": [
     "static/css/main.52a98e88.css",
-    "static/js/main.e06d1f11.js"
+    "static/js/main.76f8b518.js"
   ]
 }
